@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\code\gl_vulkan\3rdParty\glfw-3.3.8\build\CMakeFiles\0fe337a14ebc660d93fad560c611c0cb\update_mappings.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\code\gl_vulkan\3rdParty\glfw-3.3.8\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\code\gl_vulkan\3rdParty\glfw-3.3.8\src\mappings.h.in">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="D:\code\gl_vulkan\3rdParty\glfw-3.3.8\CMake\GenerateMappings.cmake" />
+    <None Include="D:\code\gl_vulkan\3rdParty\glfw-3.3.8\build\src\CMakeFiles\update_mappings" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{B13AA56B-0D1C-3A8D-AE56-86426CCB5BE5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{650C89C7-DDFD-355F-B032-D987EC9AACA4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
